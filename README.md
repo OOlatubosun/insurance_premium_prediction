@@ -28,7 +28,7 @@ pip install autogluon chardet
 conda install streamlit jupyter
 ```
 
-### Tell your instructions as follows:
+### Test your instructions as follows:
 
 ```bash
 (insuranceenv) C:\Users\User\Documents\workspace_datahackermen\insurance_premium_prediction>python
